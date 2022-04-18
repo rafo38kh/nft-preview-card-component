@@ -37,12 +37,12 @@ const Card = () => {
 
       <FlexRowBlock>
         <FlexRowBlock>
-          <Icon src={ethereum} />
+          <Icon src={ethereum} alt="ethereum" />
           <EthereumTxt>0.041 ETH</EthereumTxt>
         </FlexRowBlock>
 
         <FlexRowBlock>
-          <Icon src={clock} primary />
+          <Icon src={clock} primary alt="clock" />
           <SecondaryTxt>3 days left</SecondaryTxt>
         </FlexRowBlock>
       </FlexRowBlock>
@@ -50,9 +50,9 @@ const Card = () => {
       <Devider />
 
       <HumanWrapper>
-        <Human src={avatar} />
+        <Human src={avatar} alt="Jules Wyvern avatar" />
         <SecondaryTxt>
-          Creation of <Name>Jules Wyvern</Name>{" "}
+          Creation of <Name>Jules Wyvern</Name>
         </SecondaryTxt>
       </HumanWrapper>
     </Box>

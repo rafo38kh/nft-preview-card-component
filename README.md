@@ -25,7 +25,7 @@ This is a solution to the [NFT Preview Card Component Challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-with-react-and-styled-components-S1pnGUs49](https://www.frontendmentor.io/solutions/nft-preview-card-component-with-react-and-styled-components-S1pnGUs49)
 - Live Site URL: [https://rafo38kh.github.io/nft-preview-card-component/](https://rafo38kh.github.io/nft-preview-card-component/)
 
 ## My process

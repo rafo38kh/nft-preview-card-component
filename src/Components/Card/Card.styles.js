@@ -4,7 +4,7 @@ import colors from "../styles/styleVariables";
 import equilibrium from "../../images/image-equilibrium.jpg";
 import view from "../../images/icon-view.svg";
 
-export const Box = styled.div`
+export const Box = styled.main`
   background-color: ${colors.secondary};
   width: 87%;
   max-width: 40rem;
